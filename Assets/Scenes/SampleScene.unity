@@ -128,7 +128,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &25966896
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -202,12 +202,12 @@ GameObject:
   - component: {fileID: 45062412}
   - component: {fileID: 45062411}
   m_Layer: 0
-  m_Name: NES - Bomberman - General Sprites_45
+  m_Name: Unbreakeable_Brick
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &45062411
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -285,7 +285,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &124479695
 Transform:
   m_ObjectHideFlags: 0
@@ -310,6 +310,7 @@ GameObject:
   m_Component:
   - component: {fileID: 326792322}
   - component: {fileID: 326792321}
+  - component: {fileID: 326792323}
   m_Layer: 0
   m_Name: bomb
   m_TagString: Untagged
@@ -379,6 +380,22 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &326792323
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 326792320}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9687fd5784df0bb4cb59a9837d573f71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  blastPrefab: {fileID: 695677914}
+  timeToExplosive: 4
+  blastExplosive: 2
+  blastTime: 0.1
 --- !u!1 &476122086
 GameObject:
   m_ObjectHideFlags: 0
@@ -395,7 +412,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &476122087
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -550,8 +567,9 @@ GameObject:
   m_Component:
   - component: {fileID: 695677913}
   - component: {fileID: 695677912}
+  - component: {fileID: 695677914}
   m_Layer: 0
-  m_Name: NES - Bomberman - General Sprites_91
+  m_Name: Blast
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -619,6 +637,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &695677914
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 695677911}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b49b766702e74e47995a6eb3cdbf617, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timelife: 2
 --- !u!1 &780508757
 GameObject:
   m_ObjectHideFlags: 0
@@ -635,7 +666,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &780508758
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -714,7 +745,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &795707070
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -788,12 +819,12 @@ GameObject:
   - component: {fileID: 1014285063}
   - component: {fileID: 1014285062}
   m_Layer: 0
-  m_Name: NES - Bomberman - General Sprites_47
+  m_Name: brick
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &1014285062
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -877,7 +908,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!70 &1885903524
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -930,7 +961,8 @@ MonoBehaviour:
   playerInput: 2
   movementInput: {fileID: 1885903527}
   playerRunSpeed: 4
-  bombPrefab: {fileID: 326792320}
+  blastRange: 4
+  bombPrefab: {fileID: 326792323}
 --- !u!114 &1885903527
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1053,12 +1085,12 @@ GameObject:
   - component: {fileID: 1953082941}
   - component: {fileID: 1953082940}
   m_Layer: 0
-  m_Name: NES - Bomberman - General Sprites_59
+  m_Name: background_tile
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &1953082940
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1231,7 +1263,8 @@ MonoBehaviour:
   playerInput: 1
   movementInput: {fileID: 2118294433}
   playerRunSpeed: 4
-  bombPrefab: {fileID: 326792320}
+  blastRange: 2
+  bombPrefab: {fileID: 326792323}
 --- !u!70 &2118294435
 CapsuleCollider2D:
   m_ObjectHideFlags: 0

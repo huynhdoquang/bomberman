@@ -20,9 +20,9 @@ public class PlayerController : MonoBehaviour
     /// <summary>
     /// 
     /// </summary>
-    private int blastRange;
+    [SerializeField]  private int blastRange = 4;
 
-    [SerializeField] private GameObject bombPrefab;
+    [SerializeField] private Bomb bombPrefab;
 
     // Start is called before the first frame update
     void Start()
@@ -51,6 +51,7 @@ public class PlayerController : MonoBehaviour
 
         var bomb = Instantiate(bombPrefab);
         bomb.transform.position = transform.position;
+        bomb.Init(blastRange);
     }
 
     void RemoteBomb()

@@ -58,4 +58,32 @@ public class PlayerController : MonoBehaviour
     {
         Debug.Log("RemoteBomb ");
     }
+
+
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        Debug.Log("GameObject2 collided with " + collision.gameObject.name + GameTag.ItemLongerBlast);
+
+        if(collision.gameObject.tag == GameTag.ItemLongerBlast)
+        {
+            //Add Blast
+            blastRange += 1;
+        }
+
+        if (collision.gameObject.tag == GameTag.ItemMoreBomb)
+        {
+            bombQuantity += 1;
+        }
+
+        if (collision.gameObject.tag == GameTag.ItemFasterRun)
+        {
+            playerRunSpeed += 1;
+            movementInput.SetMovementSpeed(playerRunSpeed);
+        }
+
+        if (collision.gameObject.tag == GameTag.ItemRemoteBomb)
+        {
+            //TODO:
+        }
+    }
 }

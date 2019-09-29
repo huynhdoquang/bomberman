@@ -27,7 +27,7 @@ public class Bomb : MonoBehaviour
 
     private int numbOfBalst;
 
-    public void Init(int blastExplosive, int timeToExplosive = 4)
+    public void Init(int blastExplosive, int timeToExplosive = 10)
     {
         this.timeToExplosive = timeToExplosive;
         this.blastExplosive = blastExplosive;
@@ -114,4 +114,16 @@ public class Bomb : MonoBehaviour
         b.transform.position = new Vector3(addOnX, addOnY, transform.position.z);
         b.Init();
     }
+
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        Debug.Log("GameObject2 collided with " + collision.gameObject.name);
+        if (collision.gameObject.tag == "blast")
+        {
+            Debug.Log("Explosived thought blast");
+            if (!isExplosived) Explosive();
+            isExplosived = true;
+        }
+    }
+    
 }

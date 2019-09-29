@@ -1,0 +1,1076 @@
+fileFormatVersion: 2
+guid: 2b19b8dba0f965f4c9570c0af0b60495
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TurboGrafx-16 - Bomberman 94 - Items_0
+    21300002: TurboGrafx-16 - Bomberman 94 - Items_1
+    21300004: TurboGrafx-16 - Bomberman 94 - Items_2
+    21300006: TurboGrafx-16 - Bomberman 94 - Items_3
+    21300008: TurboGrafx-16 - Bomberman 94 - Items_4
+    21300010: TurboGrafx-16 - Bomberman 94 - Items_5
+    21300012: TurboGrafx-16 - Bomberman 94 - Items_6
+    21300014: TurboGrafx-16 - Bomberman 94 - Items_7
+    21300016: TurboGrafx-16 - Bomberman 94 - Items_8
+    21300018: TurboGrafx-16 - Bomberman 94 - Items_9
+    21300020: TurboGrafx-16 - Bomberman 94 - Items_10
+    21300022: TurboGrafx-16 - Bomberman 94 - Items_11
+    21300024: TurboGrafx-16 - Bomberman 94 - Items_12
+    21300026: TurboGrafx-16 - Bomberman 94 - Items_13
+    21300028: TurboGrafx-16 - Bomberman 94 - Items_14
+    21300030: TurboGrafx-16 - Bomberman 94 - Items_15
+    21300032: TurboGrafx-16 - Bomberman 94 - Items_16
+    21300034: TurboGrafx-16 - Bomberman 94 - Items_17
+    21300036: TurboGrafx-16 - Bomberman 94 - Items_18
+    21300038: TurboGrafx-16 - Bomberman 94 - Items_19
+    21300040: TurboGrafx-16 - Bomberman 94 - Items_20
+    21300042: TurboGrafx-16 - Bomberman 94 - Items_21
+    21300044: TurboGrafx-16 - Bomberman 94 - Items_22
+    21300046: TurboGrafx-16 - Bomberman 94 - Items_23
+    21300048: TurboGrafx-16 - Bomberman 94 - Items_24
+    21300050: TurboGrafx-16 - Bomberman 94 - Items_25
+    21300052: TurboGrafx-16 - Bomberman 94 - Items_26
+    21300054: TurboGrafx-16 - Bomberman 94 - Items_27
+    21300056: TurboGrafx-16 - Bomberman 94 - Items_28
+    21300058: TurboGrafx-16 - Bomberman 94 - Items_29
+    21300060: TurboGrafx-16 - Bomberman 94 - Items_30
+    21300062: TurboGrafx-16 - Bomberman 94 - Items_31
+    21300064: TurboGrafx-16 - Bomberman 94 - Items_32
+    21300066: TurboGrafx-16 - Bomberman 94 - Items_33
+    21300068: TurboGrafx-16 - Bomberman 94 - Items_34
+    21300070: TurboGrafx-16 - Bomberman 94 - Items_35
+    21300072: TurboGrafx-16 - Bomberman 94 - Items_36
+    21300074: TurboGrafx-16 - Bomberman 94 - Items_37
+    21300076: TurboGrafx-16 - Bomberman 94 - Items_38
+    21300078: TurboGrafx-16 - Bomberman 94 - Items_39
+    21300080: TurboGrafx-16 - Bomberman 94 - Items_40
+    21300082: TurboGrafx-16 - Bomberman 94 - Items_41
+    21300084: TurboGrafx-16 - Bomberman 94 - Items_42
+    21300086: TurboGrafx-16 - Bomberman 94 - Items_43
+    21300088: TurboGrafx-16 - Bomberman 94 - Items_44
+    21300090: TurboGrafx-16 - Bomberman 94 - Items_45
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ab43649a2cda24cb56a66166bef321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 16
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6ac5c3403bda741bcefd355e4120fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 16
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c1d45a73b1d0e46a21448fce88ccb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 16
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f1fa7ade35340408d913b66f1e8e14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 16
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8340f1cb5fff9b04daaaccbab675a6af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 16
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb7e93ddafa8ef4fa994ef476aecced
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 16
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d023103d4d867440948fa07a36eab87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 16
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc85077b47827144950db747aab66ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 16
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4941c6322bd4df94a877c83a4cac19c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 16
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7ba4d6bbb532542945b9dfb60aeb72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 16
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9016743092a4a0e498e3f4a2e6a2598e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 16
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a8dd23b2b829d41aa666b762440f2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 16
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f5aa6eeb90a8744800de30d7a19a41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_13
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 16
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69a43e886b095144be5bce827d8a004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_14
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 16
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cfbed5098582946b8d0f71d4217d36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 16
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80a76a3528f5d642a7db2d3fd8f805f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_16
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 16
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8d8b4e6b761db4a85de77a4d10a2ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_17
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 16
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf96e0657b07024b845fadfa7fb2a36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_18
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 16
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459e730bb90ccfd40aa0ac4c54af0045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_19
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 16
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fdcd7d29c512546a23ce58ecece26f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_20
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 16
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c18b57b97218646bc6dc9576b5574d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_21
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 16
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8643646906e0f444095dc18b6e6017c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_22
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 16
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7828f709030c0841950414c29790ccf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062b1f805cb8fcb4abab6fd6f91bcd59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa54ff211d5719469aab15e0363861b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e38723463d09d4f94c7c851d385678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_26
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ac1d22ba4167048a77714497d93d1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_27
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ba7f8e9444ae044acd5be319b128ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_28
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b35e2ddb329b14dacaf3c48ace3e8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_29
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abe894e7aee2e24ebe9d45896a5779c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_30
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7085a00739dd140b21d52331af470a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_31
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9457b4263eebd434a9ca734768907bcd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_32
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc835b82600376d4ba8a22bcb19884db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_33
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7d482bfe20d65419573d296ba1ae01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_34
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 0
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f59248bca8ae44f808eadc1dafe936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_35
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d968e90fb8a43b48a068efc66c1cea1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_36
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 0
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58de84c8422a9344a87dbaa35388da07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_37
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 0
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96f68f4fa5cd9e42ab09d40beba7a29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_38
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9d6f37f89b07840846847e7b3a1c4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_39
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65dbcb77e54f9c429a82f6cdf2c2fa9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_40
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 0
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b5ae712d85f10459448e3ea4995b50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_41
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8703df42eeeba4ab07b4ade215ab7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_42
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fcf45b5c800644495a376061342107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_43
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca315b86a36c454dabbd1f2491ef738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_44
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7213d208fead35e499a3bd1ab10603c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman 94 - Items_45
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 0
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91398a60fd5f9d14bb63ae1d034d1175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3ba17c7111afe8648a267a2775450528
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

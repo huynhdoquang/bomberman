@@ -1,0 +1,6872 @@
+fileFormatVersion: 2
+guid: 1948f05889e87ea4ea4860aadc800578
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NES - Bomberman - General Sprites_0
+    21300002: NES - Bomberman - General Sprites_1
+    21300004: NES - Bomberman - General Sprites_2
+    21300006: NES - Bomberman - General Sprites_3
+    21300008: NES - Bomberman - General Sprites_4
+    21300010: NES - Bomberman - General Sprites_5
+    21300012: NES - Bomberman - General Sprites_6
+    21300014: NES - Bomberman - General Sprites_7
+    21300016: NES - Bomberman - General Sprites_8
+    21300018: NES - Bomberman - General Sprites_9
+    21300020: NES - Bomberman - General Sprites_10
+    21300022: NES - Bomberman - General Sprites_11
+    21300024: NES - Bomberman - General Sprites_12
+    21300026: NES - Bomberman - General Sprites_13
+    21300028: NES - Bomberman - General Sprites_14
+    21300030: NES - Bomberman - General Sprites_15
+    21300032: NES - Bomberman - General Sprites_16
+    21300034: NES - Bomberman - General Sprites_17
+    21300036: NES - Bomberman - General Sprites_18
+    21300038: NES - Bomberman - General Sprites_19
+    21300040: NES - Bomberman - General Sprites_20
+    21300042: NES - Bomberman - General Sprites_21
+    21300044: NES - Bomberman - General Sprites_22
+    21300046: NES - Bomberman - General Sprites_23
+    21300048: NES - Bomberman - General Sprites_24
+    21300050: NES - Bomberman - General Sprites_25
+    21300052: NES - Bomberman - General Sprites_26
+    21300054: NES - Bomberman - General Sprites_27
+    21300056: NES - Bomberman - General Sprites_28
+    21300058: NES - Bomberman - General Sprites_29
+    21300060: NES - Bomberman - General Sprites_30
+    21300062: NES - Bomberman - General Sprites_31
+    21300064: NES - Bomberman - General Sprites_32
+    21300066: NES - Bomberman - General Sprites_33
+    21300068: NES - Bomberman - General Sprites_34
+    21300070: NES - Bomberman - General Sprites_35
+    21300072: NES - Bomberman - General Sprites_36
+    21300074: NES - Bomberman - General Sprites_37
+    21300076: NES - Bomberman - General Sprites_38
+    21300078: NES - Bomberman - General Sprites_39
+    21300080: NES - Bomberman - General Sprites_40
+    21300082: NES - Bomberman - General Sprites_41
+    21300084: NES - Bomberman - General Sprites_42
+    21300086: NES - Bomberman - General Sprites_43
+    21300088: NES - Bomberman - General Sprites_44
+    21300090: NES - Bomberman - General Sprites_45
+    21300092: NES - Bomberman - General Sprites_46
+    21300094: NES - Bomberman - General Sprites_47
+    21300096: NES - Bomberman - General Sprites_48
+    21300098: NES - Bomberman - General Sprites_49
+    21300100: NES - Bomberman - General Sprites_50
+    21300102: NES - Bomberman - General Sprites_51
+    21300104: NES - Bomberman - General Sprites_52
+    21300106: NES - Bomberman - General Sprites_53
+    21300108: NES - Bomberman - General Sprites_54
+    21300110: NES - Bomberman - General Sprites_55
+    21300112: NES - Bomberman - General Sprites_56
+    21300114: NES - Bomberman - General Sprites_57
+    21300116: NES - Bomberman - General Sprites_58
+    21300118: NES - Bomberman - General Sprites_59
+    21300120: NES - Bomberman - General Sprites_60
+    21300122: NES - Bomberman - General Sprites_61
+    21300124: NES - Bomberman - General Sprites_62
+    21300126: NES - Bomberman - General Sprites_63
+    21300128: NES - Bomberman - General Sprites_64
+    21300130: NES - Bomberman - General Sprites_65
+    21300132: NES - Bomberman - General Sprites_66
+    21300134: NES - Bomberman - General Sprites_67
+    21300136: NES - Bomberman - General Sprites_68
+    21300138: NES - Bomberman - General Sprites_69
+    21300140: NES - Bomberman - General Sprites_70
+    21300142: NES - Bomberman - General Sprites_71
+    21300144: NES - Bomberman - General Sprites_72
+    21300146: NES - Bomberman - General Sprites_73
+    21300148: NES - Bomberman - General Sprites_74
+    21300150: NES - Bomberman - General Sprites_75
+    21300152: NES - Bomberman - General Sprites_76
+    21300154: NES - Bomberman - General Sprites_77
+    21300156: NES - Bomberman - General Sprites_78
+    21300158: NES - Bomberman - General Sprites_79
+    21300160: NES - Bomberman - General Sprites_80
+    21300162: NES - Bomberman - General Sprites_81
+    21300164: NES - Bomberman - General Sprites_82
+    21300166: NES - Bomberman - General Sprites_83
+    21300168: NES - Bomberman - General Sprites_84
+    21300170: NES - Bomberman - General Sprites_85
+    21300172: NES - Bomberman - General Sprites_86
+    21300174: NES - Bomberman - General Sprites_87
+    21300176: NES - Bomberman - General Sprites_88
+    21300178: NES - Bomberman - General Sprites_89
+    21300180: NES - Bomberman - General Sprites_90
+    21300182: NES - Bomberman - General Sprites_91
+    21300184: NES - Bomberman - General Sprites_92
+    21300186: NES - Bomberman - General Sprites_93
+    21300188: NES - Bomberman - General Sprites_94
+    21300190: NES - Bomberman - General Sprites_95
+    21300192: NES - Bomberman - General Sprites_96
+    21300194: NES - Bomberman - General Sprites_97
+    21300196: NES - Bomberman - General Sprites_98
+    21300198: NES - Bomberman - General Sprites_99
+    21300200: NES - Bomberman - General Sprites_100
+    21300202: NES - Bomberman - General Sprites_101
+    21300204: NES - Bomberman - General Sprites_102
+    21300206: NES - Bomberman - General Sprites_103
+    21300208: NES - Bomberman - General Sprites_104
+    21300210: NES - Bomberman - General Sprites_105
+    21300212: NES - Bomberman - General Sprites_106
+    21300214: NES - Bomberman - General Sprites_107
+    21300216: NES - Bomberman - General Sprites_108
+    21300218: NES - Bomberman - General Sprites_109
+    21300220: NES - Bomberman - General Sprites_110
+    21300222: NES - Bomberman - General Sprites_111
+    21300224: NES - Bomberman - General Sprites_112
+    21300226: NES - Bomberman - General Sprites_113
+    21300228: NES - Bomberman - General Sprites_114
+    21300230: NES - Bomberman - General Sprites_115
+    21300232: NES - Bomberman - General Sprites_116
+    21300234: NES - Bomberman - General Sprites_117
+    21300236: NES - Bomberman - General Sprites_118
+    21300238: NES - Bomberman - General Sprites_119
+    21300240: NES - Bomberman - General Sprites_120
+    21300242: NES - Bomberman - General Sprites_121
+    21300244: NES - Bomberman - General Sprites_122
+    21300246: NES - Bomberman - General Sprites_123
+    21300248: NES - Bomberman - General Sprites_124
+    21300250: NES - Bomberman - General Sprites_125
+    21300252: NES - Bomberman - General Sprites_126
+    21300254: NES - Bomberman - General Sprites_127
+    21300256: NES - Bomberman - General Sprites_128
+    21300258: NES - Bomberman - General Sprites_129
+    21300260: NES - Bomberman - General Sprites_130
+    21300262: NES - Bomberman - General Sprites_131
+    21300264: NES - Bomberman - General Sprites_132
+    21300266: NES - Bomberman - General Sprites_133
+    21300268: NES - Bomberman - General Sprites_134
+    21300270: NES - Bomberman - General Sprites_135
+    21300272: NES - Bomberman - General Sprites_136
+    21300274: NES - Bomberman - General Sprites_137
+    21300276: NES - Bomberman - General Sprites_138
+    21300278: NES - Bomberman - General Sprites_139
+    21300280: NES - Bomberman - General Sprites_140
+    21300282: NES - Bomberman - General Sprites_141
+    21300284: NES - Bomberman - General Sprites_142
+    21300286: NES - Bomberman - General Sprites_143
+    21300288: NES - Bomberman - General Sprites_144
+    21300290: NES - Bomberman - General Sprites_145
+    21300292: NES - Bomberman - General Sprites_146
+    21300294: NES - Bomberman - General Sprites_147
+    21300296: NES - Bomberman - General Sprites_148
+    21300298: NES - Bomberman - General Sprites_149
+    21300300: NES - Bomberman - General Sprites_150
+    21300302: NES - Bomberman - General Sprites_151
+    21300304: NES - Bomberman - General Sprites_152
+    21300306: NES - Bomberman - General Sprites_153
+    21300308: NES - Bomberman - General Sprites_154
+    21300310: NES - Bomberman - General Sprites_155
+    21300312: NES - Bomberman - General Sprites_156
+    21300314: NES - Bomberman - General Sprites_157
+    21300316: NES - Bomberman - General Sprites_158
+    21300318: NES - Bomberman - General Sprites_159
+    21300320: NES - Bomberman - General Sprites_160
+    21300322: NES - Bomberman - General Sprites_161
+    21300324: NES - Bomberman - General Sprites_162
+    21300326: NES - Bomberman - General Sprites_163
+    21300328: NES - Bomberman - General Sprites_164
+    21300330: NES - Bomberman - General Sprites_165
+    21300332: NES - Bomberman - General Sprites_166
+    21300334: NES - Bomberman - General Sprites_167
+    21300336: NES - Bomberman - General Sprites_168
+    21300338: NES - Bomberman - General Sprites_169
+    21300340: NES - Bomberman - General Sprites_170
+    21300342: NES - Bomberman - General Sprites_171
+    21300344: NES - Bomberman - General Sprites_172
+    21300346: NES - Bomberman - General Sprites_173
+    21300348: NES - Bomberman - General Sprites_174
+    21300350: NES - Bomberman - General Sprites_175
+    21300352: NES - Bomberman - General Sprites_176
+    21300354: NES - Bomberman - General Sprites_177
+    21300356: NES - Bomberman - General Sprites_178
+    21300358: NES - Bomberman - General Sprites_179
+    21300360: NES - Bomberman - General Sprites_180
+    21300362: NES - Bomberman - General Sprites_181
+    21300364: NES - Bomberman - General Sprites_182
+    21300366: NES - Bomberman - General Sprites_183
+    21300368: NES - Bomberman - General Sprites_184
+    21300370: NES - Bomberman - General Sprites_185
+    21300372: NES - Bomberman - General Sprites_186
+    21300374: NES - Bomberman - General Sprites_187
+    21300376: NES - Bomberman - General Sprites_188
+    21300378: NES - Bomberman - General Sprites_189
+    21300380: NES - Bomberman - General Sprites_190
+    21300382: NES - Bomberman - General Sprites_191
+    21300384: NES - Bomberman - General Sprites_192
+    21300386: NES - Bomberman - General Sprites_193
+    21300388: NES - Bomberman - General Sprites_194
+    21300390: NES - Bomberman - General Sprites_195
+    21300392: NES - Bomberman - General Sprites_196
+    21300394: NES - Bomberman - General Sprites_197
+    21300396: NES - Bomberman - General Sprites_198
+    21300398: NES - Bomberman - General Sprites_199
+    21300400: NES - Bomberman - General Sprites_200
+    21300402: NES - Bomberman - General Sprites_201
+    21300404: NES - Bomberman - General Sprites_202
+    21300406: NES - Bomberman - General Sprites_203
+    21300408: NES - Bomberman - General Sprites_204
+    21300410: NES - Bomberman - General Sprites_205
+    21300412: NES - Bomberman - General Sprites_206
+    21300414: NES - Bomberman - General Sprites_207
+    21300416: NES - Bomberman - General Sprites_208
+    21300418: NES - Bomberman - General Sprites_209
+    21300420: NES - Bomberman - General Sprites_210
+    21300422: NES - Bomberman - General Sprites_211
+    21300424: NES - Bomberman - General Sprites_212
+    21300426: NES - Bomberman - General Sprites_213
+    21300428: NES - Bomberman - General Sprites_214
+    21300430: NES - Bomberman - General Sprites_215
+    21300432: NES - Bomberman - General Sprites_216
+    21300434: NES - Bomberman - General Sprites_217
+    21300436: NES - Bomberman - General Sprites_218
+    21300438: NES - Bomberman - General Sprites_219
+    21300440: NES - Bomberman - General Sprites_220
+    21300442: NES - Bomberman - General Sprites_221
+    21300444: NES - Bomberman - General Sprites_222
+    21300446: NES - Bomberman - General Sprites_223
+    21300448: NES - Bomberman - General Sprites_224
+    21300450: NES - Bomberman - General Sprites_225
+    21300452: NES - Bomberman - General Sprites_226
+    21300454: NES - Bomberman - General Sprites_227
+    21300456: NES - Bomberman - General Sprites_228
+    21300458: NES - Bomberman - General Sprites_229
+    21300460: NES - Bomberman - General Sprites_230
+    21300462: NES - Bomberman - General Sprites_231
+    21300464: NES - Bomberman - General Sprites_232
+    21300466: NES - Bomberman - General Sprites_233
+    21300468: NES - Bomberman - General Sprites_234
+    21300470: NES - Bomberman - General Sprites_235
+    21300472: NES - Bomberman - General Sprites_236
+    21300474: NES - Bomberman - General Sprites_237
+    21300476: NES - Bomberman - General Sprites_238
+    21300478: NES - Bomberman - General Sprites_239
+    21300480: NES - Bomberman - General Sprites_240
+    21300482: NES - Bomberman - General Sprites_241
+    21300484: NES - Bomberman - General Sprites_242
+    21300486: NES - Bomberman - General Sprites_243
+    21300488: NES - Bomberman - General Sprites_244
+    21300490: NES - Bomberman - General Sprites_245
+    21300492: NES - Bomberman - General Sprites_246
+    21300494: NES - Bomberman - General Sprites_247
+    21300496: NES - Bomberman - General Sprites_248
+    21300498: NES - Bomberman - General Sprites_249
+    21300500: NES - Bomberman - General Sprites_250
+    21300502: NES - Bomberman - General Sprites_251
+    21300504: NES - Bomberman - General Sprites_252
+    21300506: NES - Bomberman - General Sprites_253
+    21300508: NES - Bomberman - General Sprites_254
+    21300510: NES - Bomberman - General Sprites_255
+    21300512: NES - Bomberman - General Sprites_256
+    21300514: NES - Bomberman - General Sprites_257
+    21300516: NES - Bomberman - General Sprites_258
+    21300518: NES - Bomberman - General Sprites_259
+    21300520: NES - Bomberman - General Sprites_260
+    21300522: NES - Bomberman - General Sprites_261
+    21300524: NES - Bomberman - General Sprites_262
+    21300526: NES - Bomberman - General Sprites_263
+    21300528: NES - Bomberman - General Sprites_264
+    21300530: NES - Bomberman - General Sprites_265
+    21300532: NES - Bomberman - General Sprites_266
+    21300534: NES - Bomberman - General Sprites_267
+    21300536: NES - Bomberman - General Sprites_268
+    21300538: NES - Bomberman - General Sprites_269
+    21300540: NES - Bomberman - General Sprites_270
+    21300542: NES - Bomberman - General Sprites_271
+    21300544: NES - Bomberman - General Sprites_272
+    21300546: NES - Bomberman - General Sprites_273
+    21300548: NES - Bomberman - General Sprites_274
+    21300550: NES - Bomberman - General Sprites_275
+    21300552: NES - Bomberman - General Sprites_276
+    21300554: NES - Bomberman - General Sprites_277
+    21300556: NES - Bomberman - General Sprites_278
+    21300558: NES - Bomberman - General Sprites_279
+    21300560: NES - Bomberman - General Sprites_280
+    21300562: NES - Bomberman - General Sprites_281
+    21300564: NES - Bomberman - General Sprites_282
+    21300566: NES - Bomberman - General Sprites_283
+    21300568: NES - Bomberman - General Sprites_284
+    21300570: NES - Bomberman - General Sprites_285
+    21300572: NES - Bomberman - General Sprites_286
+    21300574: NES - Bomberman - General Sprites_287
+    21300576: NES - Bomberman - General Sprites_288
+    21300578: NES - Bomberman - General Sprites_289
+    21300580: NES - Bomberman - General Sprites_290
+    21300582: NES - Bomberman - General Sprites_291
+    21300584: NES - Bomberman - General Sprites_292
+    21300586: NES - Bomberman - General Sprites_293
+    21300588: NES - Bomberman - General Sprites_294
+    21300590: NES - Bomberman - General Sprites_295
+    21300592: NES - Bomberman - General Sprites_296
+    21300594: NES - Bomberman - General Sprites_297
+    21300596: NES - Bomberman - General Sprites_298
+    21300598: NES - Bomberman - General Sprites_299
+    21300600: NES - Bomberman - General Sprites_300
+    21300602: NES - Bomberman - General Sprites_301
+    21300604: NES - Bomberman - General Sprites_302
+    21300606: NES - Bomberman - General Sprites_303
+    21300608: NES - Bomberman - General Sprites_304
+    21300610: NES - Bomberman - General Sprites_305
+    21300612: NES - Bomberman - General Sprites_306
+    21300614: NES - Bomberman - General Sprites_307
+    21300616: NES - Bomberman - General Sprites_308
+    21300618: NES - Bomberman - General Sprites_309
+    21300620: NES - Bomberman - General Sprites_310
+    21300622: NES - Bomberman - General Sprites_311
+    21300624: NES - Bomberman - General Sprites_312
+    21300626: NES - Bomberman - General Sprites_313
+    21300628: NES - Bomberman - General Sprites_314
+    21300630: NES - Bomberman - General Sprites_315
+    21300632: NES - Bomberman - General Sprites_316
+    21300634: NES - Bomberman - General Sprites_317
+    21300636: NES - Bomberman - General Sprites_318
+    21300638: NES - Bomberman - General Sprites_319
+    21300640: NES - Bomberman - General Sprites_320
+    21300642: NES - Bomberman - General Sprites_321
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 367
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acef610f8be98cf4eaa543e904d4df0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 367
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d6169ae58285a4c98bbf7f481648e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 367
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf0853397a3fbb4a9838996b9f914c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 367
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06faf8fc39b13824bb3e6314fd53e9e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 367
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574c9417924e0f94b8181c3a8e7914bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 367
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8828195a81ba14eaff6bd160176732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 367
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507e1d20cda45914c82d7291151db98f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 367
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca326bcb6db0094eaf494188d815678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 367
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3520a17e8c1cb29448874a124d57c018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 367
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abeffbfe5ce2c6e41b8c5fddd283c329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 367
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e212c5566ae1aae46820be905698eb13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 367
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba8b67b61974ba4f82f3f5ca421a39c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 367
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01a35add141d7c408e670dcfa63e3ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 367
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed483d139e85a043b9d07e4c6aa18d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14745de4e46b2642838eb834ff89713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 351
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41729127bb71124eabb28d430b4173c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 351
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5681121f2074bfa41952ba5d6e5fddba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 351
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1042d9784765b054c966e7590876b383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 351
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad854940b44407347a5b0f2acb374b01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 351
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5457a201311466a4d9c75fb8a8cc9faf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 351
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62c22e3468fae74eb4cd8db38a4b3e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 351
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc42f085a7ebc0944820dc632a57c179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 351
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e76d57b2e03e142ba8d53e9c14fa9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 351
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b5291fdfc659e48805185c0461e520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 351
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fe42bc0fff28d4985585dafe71192a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 351
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b35a5985d091b4ebb34e010c2ebac3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 351
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2b08e41437042499cd72795e7ad73d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 351
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1264e75a4c319c4f90ad1f875510785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87fa626371008c4899d57cd1952d45e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 335
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea05e4d02748af740ae50eabc013f874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 335
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f97f74d9ef3b264ca7e3f1049b3379d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 335
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42df4feeed29f764fb7bc9265e6404a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 335
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce63a6606c31f0845a1c2564c4ff7182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 335
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaedcbac4ff71634e927b129d4d280ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 335
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d3be5859465024db61d04864732960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 335
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfbb9bad4300444db49b0ed8c7368b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 335
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39055729537740c49869d9ec1522416a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 335
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d49db440cf4979409992dd60dcd19fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 335
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888245fb9364bfe488450f28a5530eda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 335
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32ca25fb1d8a0b4d91816aca9b744ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 335
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aded467d240ec5448a05d6135a71ea2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 335
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831a191d6c9366742b3b47a1469751dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2786888eb42ed4e989ce6e54dcdaa7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 319
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8550573a6926040b7488eae7f13013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 319
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c692469d17cbc054b9051326f9ba9ee6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 319
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5432b8fe16d6ae142a7d399a330bda4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 319
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e4f08ab93f1f841b62ab0208117fe5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 319
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a724a5c495b6344e8fac692aa296d12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 319
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e561b2e38ef3be848bf7bf389b3c9cef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 319
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b6441d227df26429c3667040761362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 319
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae10710ccabd694e8b61afbe0d2690b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 319
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ede68b30b4dec40a68c4f4dc4a7473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 319
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ebdfd348095af4b9021228d4ac8714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 319
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5facdf4f58ea2c545846396da411e2f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 319
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372130905e53be247bfb89d1959e9638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 319
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439bbe1b5f4329d46b03915df447357f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdcf108864a501429989ebcd99a8594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 303
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ebcdcfdb6541f43890323d60664f20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 303
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6dc6d79309ded4185a0ccc677d2508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 303
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bcdcabc4bfe494ea373903c34c2d9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 303
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f949da83164f1b4d82d0fafa294306d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 303
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed579ba47c3c7564582bfd9990d33c88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 303
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4eda5f470ff80745aadb07f8e708187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 303
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f07b1b13e4587d42bee2cb05b30c70b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 303
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffc5f4e98ee9b54ba1ee888849b83e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 303
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b6325f0047f544aa82e7b44723b6f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 303
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedd6f09ed15ae948b8f294a0e14bdd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 303
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12319bec1dc59d242870b9af906f763c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 303
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124c944b91565f9478e7388034517739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 303
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f06035faab498498d76fd514b87ace
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1f881eade8ca449a4f20114c2526e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 287
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996828f389dd4414190474ec686991f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 287
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8545c67b86964a1488848921ade2237e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 287
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510aa630284fae445a2d11bf6a5a21dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 287
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145c06e0fa6e13a47aab9311b2d4e8c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 287
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b692b75ecb2404c9e6f182ac54ed0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 287
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7014b6e505cdc0e4f979767f7dc2080d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 287
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985f85213faf18a4ebae21aeb64de1fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 287
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5512887a75c38444ca4d16349282fdaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 287
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80acda0af45b563458233a0c332be023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 287
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f4922e8185b7944b71fd9396313158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 287
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e6131098b70e144814d60b53a676c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 287
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ca4bb6067368b4ea70726fa7324fc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 287
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def95c186f9678443849a51256d6594e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 271
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d75f8b00a17644c80fe5a7bd983a09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 271
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd71fb480cfcfc4c92a5af333014e5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 271
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096d21883bf197a49a5d959ea73af303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_87
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 271
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1261cfd5822864d9608db09a251df8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 271
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c678b20d575e6409a1ea7d2a0bd250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_89
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 271
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65621e62e161b3344923c01bf0d66b65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_90
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 271
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c556dd3d15705d049aeda482a839f6af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_91
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 271
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e2fbf5647a03f439a423bf9d50d01e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 271
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc86ed7fc83e124ebf8aa3cfffa0685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_93
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 271
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313d48efbb7016f48a2c9f77feb4aa8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_94
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 271
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de9c71ec81a1b442ba0368f87e7937d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_95
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 271
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d25f1a026e42714ca8be916066e1ea0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_96
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 271
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29707d4b5f3b06d4ca65264392c95293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_97
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 271
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ccef2d290927945b1e3c82c1b71be0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53f1e264fcce5b42bfa317d4922aa59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_99
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 255
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48830a9ea72103a41a8a34accf034839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 255
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc309d6ddfe2714eb2ac193587e9dcb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_101
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 255
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f94161b46c5f04c8332de14d004ea5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_102
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 255
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d8741902498924ead51e649eab75cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_103
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 255
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0499fee72679074bb957f1a6c6c82e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_104
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 255
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a440780da16dbb844a36d7c52ed921d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_105
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 255
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b99b101322d44646a99efd8c7499e50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_106
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 255
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35426768b567de498f2b2abe9118276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_107
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 255
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068266f6fc3cf3649b931ca9b3967283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_108
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 255
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b3ac0f8bb3a024aaa299fccf5b9e51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_109
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 255
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14dbd4fe33c7d4747bf043349a9b1733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_110
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 255
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b48de99a5cd2048ba4240612712fae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_111
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 255
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f51f63330fe086488ec4098fb27b2eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de30f7432ccd9af4681a31cf6a2c8a1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_113
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 239
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff241927dad44f24ea29350a7e471eb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 239
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611de26822b12ce42b3c2ae29f1b8ef4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_115
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 239
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3817e533baf5e81449c22335c0ba193a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_116
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 239
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a597356acd806946b8f5fd4d5a68d9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_117
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 239
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbd37aaa1ce9d04693168a095526e21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_118
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 239
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb99b31d0df32e346a3799b5764864f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_119
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 239
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f213acd93fb47cd4fa8ee1229bf4dc5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_120
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 239
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500d38ae85a06af47a3760cd4d9f5b49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_121
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 239
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c931626f16c949b43975fa7d111b064b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_122
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 239
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea776a0428dd824f87e98f57fd99178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_123
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 239
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2350628adb5ff7a4f99dc2c2a71b9275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_124
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 239
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe00aa47a948d04bbe29a6f58fbda75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_125
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 239
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed310c4479509fc43bd84d3436510316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5488b0582d4f044b1b05dc9933c49f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_127
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 223
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b3da83f78f2074e8d7dbec89b9c042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_128
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 223
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13fb29b8a590354e83ac17bc54c53af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_129
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 223
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfd996dcc7f14a46836de9316253812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 223
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a670c18c67843514bb350297946415ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_131
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 223
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5a1ea0e2a4f59449b6cd3275f6ca68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_132
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 223
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff300ee629cc8e44af0a2759a69268e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_133
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 223
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3411ec4dd69ee4487f051a23f6db17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_134
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 223
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664b655ae5972724ea5c7bfdcea68e09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_135
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 223
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cde5eed51dc9c245bedeace181cdcd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_136
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 223
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f513d03cbee0f6344b1764fbaee01e1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_137
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 223
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e08725c58fd71944a60c217f1bf56a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_138
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 223
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a94ce53682b2e469d19777aefb09ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_139
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 223
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3fa44d49d763f46b12999ca428d6ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d46d52d1ed5cb408059803e3e7f57e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_141
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 207
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1415827a0c3ac744d986d3c749e93af2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_142
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 207
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2223dca257ce1d45a7d6201fc1825ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_143
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 207
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c67d30fe58ea14d89bcde5bd4354e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_144
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 207
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ca0bc83d06412418e8aae1007827b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_145
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 207
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7906810e8dbc1584d81e04fdb8699934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_146
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 207
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306a98e1e3349b1499ddcf5434548e05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_147
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 207
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69fa94e3f6eb8d4c95c2fa385ecf8f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 207
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18224d15011e9584dbe51cd720b2d196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_149
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 207
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19f7e6f45c418a4e8a2f587215bfb35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_150
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 207
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fa23c8eca9522459b88a060a713ba7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_151
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 207
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae74454c5299db4098726d518428807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_152
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 207
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526f85d5af474684785a884862787f2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_153
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 207
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccec00ad6c110b4a8c2ef386875cf0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8dd9c2a5bfac1428e014722a32630c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_155
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 191
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941a62f3a0e81624bacc616c6abe5f5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_156
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 191
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da828a59962754f4881e59916d36eeb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_157
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 191
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94652f2ad5f9a7349919ec0fd229889c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_158
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 191
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b259372a325294d81db8bc38bf05c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_159
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 191
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9553938fbe3c4c94094e1ee98dfdc0e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_160
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 191
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb1337e3007bcd4d9d966d556ebb571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_161
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 191
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45118605493447e4b805d3d8b5d348c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_162
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 191
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc7a6657ca66c548b22eabb2c965aa7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_163
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 191
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e03be1e20b4f364a96be53eb8abb27b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_164
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 191
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab1f9ffa25c1d44d8aebd5312c11acd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_165
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 191
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f83a83b94d1e340a089795da70492b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_166
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 191
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a694c475abf1d40b05790483fa7a46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_167
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 191
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69fe6f8a04480e4095ddbe67481eada
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6862e5baa4cdb2c498d0fcae54bcc915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_169
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 175
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39f51467d72da143a46629b986d6357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_170
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 175
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597d9d2b578c7ee4fa0e9e0c1e7575a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_171
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 175
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de65e9e0b29f2b84699777e8fb4929d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_172
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 175
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd426ef36fd5e404dbe2f888789b6aa7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_173
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 175
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b6cd99dd581cd458d857da3f2b1fef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_174
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 175
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4946ae2c031d93b4eb687e7907b93ea9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_175
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 175
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bc360e3082fd34a85d3737ad03cbc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_176
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 175
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5dd3b234a1e14458894f4d88de272d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_177
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 175
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3270657cc97f33b45874e5fb06bec237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_178
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 175
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee23cd624e76ef46853f76a1e86d21b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_179
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 175
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dcfa2758ad99640a516d6979dcf111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_180
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 175
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dde8e487bdfbe045b58b993b0cb635f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_181
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 175
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a841c18c80927d4e9888159f879e360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d57160a950796349be42222f7fbb017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_183
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 159
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a84bacfc76d764cb179aae1881113d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_184
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 159
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a544c28a682804199ded3181ab7d7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_185
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 159
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f878e9a897cfa243bc3bc9cfc90ef52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_186
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 159
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fddd2f1bbd76ff47a5a4eb323f96c86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_187
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 159
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5245c5b4a237dd24295a77516ad508de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_188
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 159
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20ab38927a542c4588eb647701557f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_189
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 159
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5f03a4155b6c44b886d44b9b9ad3f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_190
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 159
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0aa1120f325af4479fe79d98ee2c6f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_191
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 159
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee10fd7b4af0e640aebbe4e5bcb9936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_192
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 159
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d29dc1ad9a93aa47897156620029f8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_193
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 159
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cf1c6daf9089c4b9800b98ab0cbeb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_194
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 159
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4aa2e5f96535474c8a3e62b65d25303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_195
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 159
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2a8fc44a4ee9847bda4e278fc3ec54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309165cc4e8e56e4c9f2e65dc246dccf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_197
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 143
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a7f18621334004aa64b31a82e30f8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_198
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 143
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07864b4082983264c8720b895d7b68ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_199
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 143
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7ed648d6ad1f246a51e8d632b34b6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_200
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 143
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d5b93d2a2ab2a41a861f049e62a7b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_201
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 143
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7b02e91a358d54f84d73410abd0732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_202
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 143
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7772e7f2cd644a14ab024dd66f098823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_203
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 143
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f6314822af0164992b459f3f3705f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_204
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 143
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349e9effa8eeb4f4cad2006f221bf28e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_205
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 143
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f407bc7c1175224aa658737fc39bc7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_206
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 143
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f229d1296a7376e48b07208378a9021e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_207
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 143
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d169401fcf7494c9f8d49e4bcb35ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_208
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 143
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4265032f7c3a45b4ab12cc8a243de159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_209
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 143
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94958d20ee5c8f4aa2e78f2377a1b06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c214e1ce3cd2a74884e331bac9941e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_211
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 127
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d25a2ef4173e444addfd49032654ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_212
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 127
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7906ba67758bfd146b777e91ccbeffe7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_213
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 127
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5833c73aeeddc42844989ca628164c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_214
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 127
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a19422d29b5d484caf40749ab5965b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_215
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 127
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25335b8275a489641a0a19c49c844466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_216
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 127
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87161a82e1c3b4047a557dfd352dc571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_217
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 127
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a83d653ebf74be4eb44db678dd4ba3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_218
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 127
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50bceee9bfe483468b8675c6dbf5f12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_219
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 127
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc497da3fc8668640b6065fb846110c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_220
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 127
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb1076167327b94eb63e79e8924601d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_221
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 127
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10babc26538d14940a68712bc92a190b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_222
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 127
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9d5d26317a62546ac0ca70d0d47892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_223
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 127
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dd3fd5f00869d4d98e7baf6780ea6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb733bbce6fef74f8c1bfabcb66599a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_225
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 111
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fc3863370814848912b40976861ca1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_226
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 111
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d5eff6cf81f574db21968989281e67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_227
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 111
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd6c4434d00fa740879be8af158a2b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_228
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 111
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46031908df17fcd44851ae36b400d4c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_229
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 111
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fecf847e1f138145851db18a875177d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_230
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 111
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c453e40957cb94e9edece3c6248894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_231
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 111
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2dfd7db7907984c851ecebdd5c83e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_232
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 111
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53931bf21c6ac6438cd6786e3636399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_233
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 111
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed009c9d43a0dc4990f4c9613c6dd22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_234
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 111
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e2348cf08e1b3469ec38ef55c459b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_235
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 111
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fadd94a6153df46bf1251c18a560a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_236
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 111
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1be59179f7275a4a9d0874b1e455145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_237
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 111
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63de7413870305844a8d99eb8714cb94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_238
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8979f3ab514dcda4f9da0af25fc67ecf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_239
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 95
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa799bcce2061d4aa1d18f52bb40aeb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_240
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 95
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806478251449e7f47b31a68b3202306b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_241
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 95
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44a41a3123f00d41a9e881fc5575f10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_242
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 95
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c821fe5a27032540bc1a9027bfa6049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_243
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 95
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35084ae12cfb0e4587ba3bf7a2cff65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_244
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 95
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2893b55dc1bf140ad12f618b682f65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_245
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 95
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278a10b12268ccb46bbb1a4c9b08eebc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_246
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 95
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9c64400fc30ba44810b285d70b4b91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_247
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 95
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7520f54f5895b643b4fed5b0f030f8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_248
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 95
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d4f7d05d1736149ae1cf03a14a9ea0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_249
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 95
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7187ccd666b1a447a762b5cac9faba1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_250
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 95
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76da5176219b06342a8bda61defc7996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_251
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 95
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11de60b93d3b5d34db282069becf91bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_252
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8585756f50b1e74999617755da6062a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_253
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 79
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a004b8c210e4d459cd3b5d98bf16dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_254
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 79
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2d490bdc6396240b404b2c3a211ece
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_255
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 79
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235a608af7d8e9d4ebe2be7082addbd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_256
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 79
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3b7c971abd2e64cac918f24df90e80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_257
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 79
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5caf73ac5b5458c47910b8a9e5d7b6ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_258
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 79
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da712f8187ae47428bb763e0d5fb5cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_259
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 79
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50005a758ca5d10459aaa5f8b0d5677f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_260
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 79
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae93806b3b63894385cbddc7db00ed7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_261
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 79
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8809a10a88af7149a3ca274111d850e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_262
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 79
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f89ee32b54ee646b622b12f8641ba0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_263
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 79
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5af42e8dfc5114ab5eb477d5679baf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_264
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 79
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef314c806db61441a972ca5fa66c29c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_265
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 79
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183ab7f7b4fc3b04d8fb375351ebaee9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_266
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f7f6c011c6c3b43b3f8010216c7323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_267
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 63
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e3f9134759056439fecef00f2a7e32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_268
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 63
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f4f04a3d0b4df439323e269d9ad9c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_269
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 63
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33a2f0c23e966d4ea560f192f5c1fc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_270
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 63
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a518cfbd69843d04ab35cc6c3a13d241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_271
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 63
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832df9f278deefe4d83e917d5f1b6ff6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_272
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 63
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada2e01ee09459441a3e3c1c37f52334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_273
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 63
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b705e1e38832d4ca7fbba29a7edd1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_274
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 63
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5d574a0b781d24da643a4fba272073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_275
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 63
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f256675348d5cbc45ac6c33bb863ac03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_276
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 63
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d8dc581c9fed64a9de490845c69d18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_277
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 63
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83386d5734f36947a017fc2cdfde6cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_278
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 63
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8116f3f55cf6554dacf1d4b1eb1bf2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_279
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 63
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9ab76867eccbb4684f6278f4e31df3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_280
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b58fe128a6bcf3499608d989ed457e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_281
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 47
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad014a2892a3de4fb9f8ad0d9a932d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_282
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 47
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7324c3e2cbb5cfa45b15e47a3014871a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_283
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 47
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36e5042532dff445ace002d017e2e4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_284
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 47
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683948995e95c1d4cb7647658d3a1ad9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_285
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 47
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f55f7ffeebf9944b1b6059ef2a9e7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_286
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 47
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d88d3e317f06e43b057faa03de1ed9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_287
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 47
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caabdb4a3797a83498b884e3c6a2e1e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_288
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 47
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5c86817f965904cb40d5333e8fa50e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_289
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 47
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf13317563ccb24789937055df83e93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_290
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 47
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e0e7d3dc90b614ea57ee33c6ede504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_291
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 47
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43bcd0da86e63946a35617263430875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_292
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 47
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfdc8cbeec03c448b55cfc1c1aa8fad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_293
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 47
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbf719bb5770294db6bf99a238dba01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_294
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adf0a57673f11a4ebadd1c7dc4a951d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_295
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 31
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60c71274be261f4fb32c67efb318fe1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_296
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 31
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dade38b14517aab42a5f0ec47f6cb9fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_297
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 31
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660dc106155356c4b8ccaf6bcbeee44e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_298
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 31
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e5720ba427ac34b8fb05d09012b52f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_299
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 31
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874ecd2d771c60147b3626f01e411fda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_300
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 31
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4617e630c3ee3e489b37a3ee683e0cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_301
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 31
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce851cb0b56351c45a3e1cf7a6ffb514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_302
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 31
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afecc04a2f1dc34eb28ebb1013db358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_303
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 31
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174045b72d60a224bb700e4ddda40a9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_304
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 31
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a379846a05204b04688d074f45dd3039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_305
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 31
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0313e9212e0ce643980b20e4a079b02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_306
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 31
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fbc56b249814b49bb8f898ed7ac4b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_307
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 31
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500047d7d1b580d4098eb3687d7d57f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_308
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79220c730d155842863105f4e64223c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_309
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e8d796d38e7bb46a25ecea147e7afb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_310
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 15
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffe2ecd9d41c7640a40650c91547030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_311
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 15
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1dc59b0bd81334fa28b9e7bb1c929c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_312
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 15
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2da34d8abe61d7449134f5ce64f8ac2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_313
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 15
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce87c2b26c8f76c45a670efcf2eec334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_314
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 15
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea58282ac3675042b7f8270bbb7e39b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_315
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 15
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ec72ff188bcdc44a2118d7354a0872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_316
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 15
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc62fb273cdd88458131c29f709070d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_317
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 15
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e948c12b474879428a6126661f182c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_318
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 15
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dacc8e5769443448729c9d240533ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_319
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 15
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0f4a6e4aa95414d922620d9a761b7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_320
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 15
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e59a61c954f8e64ab9c60e673b7616f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman - General Sprites_321
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 15
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b8f64713767414f8b2c5c01f1eb3fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 06d652985f51fc54a981a8e00c577619
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

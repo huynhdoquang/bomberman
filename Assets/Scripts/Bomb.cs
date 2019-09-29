@@ -27,7 +27,7 @@ public class Bomb : MonoBehaviour
 
     private int numbOfBalst;
 
-    public void Init(int blastExplosive, int timeToExplosive = 10)
+    public void Init(int blastExplosive, int timeToExplosive = 4)
     {
         this.timeToExplosive = timeToExplosive;
         this.blastExplosive = blastExplosive;

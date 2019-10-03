@@ -37,14 +37,14 @@ public class HandleTextFile
        
     }
 
-    public static void ReadString()
+    public static string ReadString()
     {
         string path = "Assets/Resources/map.txt";
 
         //Read the text from directly from the test.txt file
         StreamReader reader = new StreamReader(path);
-        Debug.Log(reader.ReadToEnd());
-        reader.Close();
+
+        return reader.ReadToEnd();
     }
 
 }

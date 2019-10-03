@@ -20,6 +20,11 @@ public class GridManagerPlaceTiles : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        Setup();
+    }
+
+    void Setup()
+    {
         tileBrick.SetActive(false);
         tileUnBreakBrick.SetActive(false);
 
@@ -32,7 +37,6 @@ public class GridManagerPlaceTiles : MonoBehaviour
         Columns = Horizontal * 2;
         Rows = Vertical * 2 - 1;
         Grid = new int[Columns, Rows];
-        //Init();
 
         _curTileType = TileType.Brick;
         OnClickTile(_curTileType);
@@ -61,8 +65,10 @@ public class GridManagerPlaceTiles : MonoBehaviour
         Debug.Log("_curTileType pos " + (int)_curTileType);
     }
 
+    bool onCreateMode;
     private void Update()
     {
+        if (!onCreateMode) return;
         var pos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         spritePreview.transform.position = new Vector3(pos.x + 0.5f, pos.y + 0.5f, spritePreview.transform.position.z);
 
@@ -85,8 +91,8 @@ public class GridManagerPlaceTiles : MonoBehaviour
 
     void AddTile(Vector3 pos, bool isDelete = false)
     {
-        var roundPos = new Vector3(Mathf.RoundToInt(pos.x),
-                                   Mathf.RoundToInt(pos.y));
+        var roundPos = new Vector3(Mathf.RoundToInt(pos.x - 0.5f),
+                                   Mathf.RoundToInt(pos.y - 0.5f));
 
         Debug.Log("Horizontal pos " + Horizontal);
         Debug.Log("Vertical pos " + Vertical);
@@ -101,8 +107,7 @@ public class GridManagerPlaceTiles : MonoBehaviour
             return;
 
         if (Grid[(int)gridPos.x, (int)gridPos.y] != 0) {
-            Grid[(int)gridPos.x, (int)gridPos.y] = (int)_curTileType;
-
+            
             for(int i =0; i< gameObjects.Count; i++)
             {
                 var go = gameObjects[i];
@@ -123,7 +128,6 @@ public class GridManagerPlaceTiles : MonoBehaviour
         else
         {
             if (isDelete) return;
-            Grid[(int)gridPos.x, (int)gridPos.y] = (int)_curTileType;
 
             SpawnTile((int)gridPos.x, (int)gridPos.y, (int)_curTileType);
         }
@@ -132,6 +136,8 @@ public class GridManagerPlaceTiles : MonoBehaviour
 
     private void SpawnTile(int x, int y, int value)
     {
+        Grid[x,y] = (int)_curTileType;
+
         var tile = Grid[x, y] == 1 ? tileBrick : tileUnBreakBrick;
         SpriteRenderer sr = Instantiate(tile, new Vector3(x - (Horizontal) + 1, y - (Vertical) + 1, tile.transform.position.z), Quaternion.identity, parent: tile.transform.parent).GetComponent<SpriteRenderer>();
         sr.name = "X: " + x + "Y: " + y;
@@ -167,18 +173,22 @@ public class GridManagerPlaceTiles : MonoBehaviour
 
     public void Init()
     {
-        Vertical = (int)Camera.main.orthographicSize;
-        Horizontal = Vertical * Screen.width / Screen.height;
-        Columns = Horizontal * 2;
-        Rows = Vertical * 2 -1;
-        Grid = new int[Columns, Rows];
-        for (int i = 0; i < Columns; i++)
+
+        var json = HandleTextFile.ReadString();
+        var cleanJson = json.Replace('\\',' ');
+
+        MyWrapper myObjects = JsonConvert.DeserializeObject(cleanJson) as MyWrapper;
+
+        if (myObjects == null) return;
+        foreach (var g in myObjects.gridDatas)
         {
-            for (int j = 0; j < Rows; j++)
+            if (g.posX > Columns || g.posY < 0 ||
+                g.posX > Horizontal || g.posY < 0)
             {
-                Grid[i, j] = (i+j)%2 == 0 ? 1 : 0;
-                SpawnTile(i, j, Grid[i, j]);
+                continue;
             }
+            _curTileType = (TileType)g.value;
+            SpawnTile(g.posX, g.posY, g.value);
         }
     }
 
@@ -197,20 +207,7 @@ public class GridManagerPlaceTiles : MonoBehaviour
 
         HandleTextFile.WriteString(serializedJson);
     }
-
-    void ImportMap(string json)
-    {
-       var myObjects = JsonUtility.FromJson<List<DTGridData>>(json);
-
-        foreach (var g in myObjects)
-        {
-            if (g.posX > Columns || g.posY < 0 ||
-                g.posX > Horizontal || g.posY < 0)
-            {
-                continue;
-            }
-        }
-    }
+    
 }
 
 public class DTGridData

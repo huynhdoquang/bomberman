@@ -16,6 +16,8 @@ public class GameController : MonoBehaviour
     [SerializeField] private PlayerController player_2;
     [SerializeField] private GameMode gameMode;
 
+    [SerializeField] private GridManagerPlaceTiles grid;
+
     private int deadPlayers = 0;
     private int deadPlayerNumber = -1;
 
@@ -44,6 +46,7 @@ public class GameController : MonoBehaviour
 
     public void StartNewGame()
     {
+        ImportMap();
         viewController.ShowIngameView();
         timeCountDownController.StarRunTime();
         timeCountDownController.OnTimeCountDownAction = OnTimeCountDown;
@@ -108,5 +111,10 @@ public class GameController : MonoBehaviour
         {
             Debug.Log("The game ended in a draw!");
         }
+    }
+
+    void ImportMap()
+    {
+        grid.Init();
     }
 }

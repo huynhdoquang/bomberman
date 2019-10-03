@@ -17,7 +17,7 @@ public class PickupItem : MonoBehaviour
         Debug.Log("Item collided with " + collision.gameObject.name + GameTag.ItemLongerBlast);
         
         if (collision.gameObject.tag == GameTag.Player
-            || collision.gameObject.tag == GameTag.Blast) // || collision.gameObject.tag == GameTag.Blast
+            ) // || collision.gameObject.tag == GameTag.Blast
         {
             Destroy(gameObject);
         }

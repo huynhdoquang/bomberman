@@ -1,6 +1,7 @@
 # bomberman
 
-This is bomberman project.
+This is bomberman project. 
+Demo and guide on https://huynhdoquang.itch.io/bomberman
 
 # Mode:
 - player vs player : DONE

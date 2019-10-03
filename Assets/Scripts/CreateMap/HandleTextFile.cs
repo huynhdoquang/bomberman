@@ -6,6 +6,10 @@ public class HandleTextFile
 {
     public static void WriteString(string json)
     {
+        PlayerPrefs.SetString("map", json);
+        Debug.Log(PlayerPrefs.GetString("map"));
+        return;
+
         string path = "Assets/Resources/map.txt";
 
         try
@@ -39,6 +43,8 @@ public class HandleTextFile
 
     public static string ReadString()
     {
+        return PlayerPrefs.GetString("map");
+
         string path = "Assets/Resources/map.txt";
 
         //Read the text from directly from the test.txt file

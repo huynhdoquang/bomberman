@@ -24,6 +24,28 @@ public class CreateMapView : MonoBehaviour
     public System.Action<TileType> BtnClickAction;
     public System.Action<PlayerInput> OnClickPlayerAction;
     public System.Action ClickExportAction;
+    public System.Action OnDoneExport;
+
+    [SerializeField] private GridManagerPlaceTiles gridTile;
+    [SerializeField] private GridManagerPlaceTilesBG gridTileBG;
+    
+
+    public void OpenShowCreateMap()
+    {
+        gridTile.gameObject.SetActive(true);
+        gridTile.SetCreateMode(true);
+        gridTile.Init();
+        gridTileBG.gameObject.SetActive(true);
+    }
+
+    void OpenHideCreateMap()
+    {
+        gridTile.SetCreateMode(false);
+        gridTile.gameObject.SetActive(false);
+        gridTileBG.gameObject.SetActive(false);
+
+        if (OnDoneExport != null) OnDoneExport.Invoke();
+    }
 
     private void Start()
     {
@@ -41,6 +63,10 @@ public class CreateMapView : MonoBehaviour
 
         btnPlayer2.onClick.RemoveListener(OnClickPlayer2);
         btnPlayer2.onClick.AddListener(OnClickPlayer2);
+
+        gridTileBG.gameObject.SetActive(false);
+
+        gridTile.OnDoneExport = OpenHideCreateMap;
     }
 
     void OnClickBrick()

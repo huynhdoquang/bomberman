@@ -69,6 +69,8 @@ public class Bomb : MonoBehaviour
                 var b = Instantiate(blastPrefab);
                 b.transform.position = transform.position;
                 b.Init();
+                b.transform.parent = transform.parent;
+                b.gameObject.SetActive(true);
                 numbOfBalst++;
             }
             StartCoroutine(SpwanBlast(i));
@@ -115,7 +117,9 @@ public class Bomb : MonoBehaviour
         }
         var b = Instantiate(blastPrefab);
         b.transform.position = new Vector3(addOnX, addOnY, transform.position.z);
+        b.transform.parent = transform.parent;
         b.Init();
+        b.gameObject.SetActive(true);
     }
 
     private Dictionary<BlastDir, bool> _isGetBrickDict;

@@ -10,6 +10,10 @@ public class TittleView : MonoBehaviour
 
     [SerializeField] private Button btnPlay;
 
+    [SerializeField] private Button btnAdjustMap;
+
+    public System.Action OnClickAdjustMap;
+
     private void Start()
     {
         dropdownTimeSelect.onValueChanged.RemoveListener(OnDropDownTimeSelect);
@@ -20,6 +24,9 @@ public class TittleView : MonoBehaviour
 
         btnPlay.onClick.RemoveListener(OnStartGame);
         btnPlay.onClick.AddListener(OnStartGame);
+
+        btnAdjustMap.onClick.RemoveListener(AdjustMap);
+        btnAdjustMap.onClick.AddListener(AdjustMap);
 
         //Set Default
         dropdownGameModeSelect.value = 0;
@@ -48,5 +55,10 @@ public class TittleView : MonoBehaviour
     {
         //Start game, init map and game ui
         GameController.Inst.StartNewGame();
+    }
+
+    void AdjustMap()
+    {
+        if (OnClickAdjustMap != null) OnClickAdjustMap.Invoke();
     }
 }

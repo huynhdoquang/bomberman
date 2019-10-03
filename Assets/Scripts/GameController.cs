@@ -115,6 +115,7 @@ public class GameController : MonoBehaviour
 
     void ImportMap()
     {
+        grid.gameObject.SetActive(true);
         grid.Init();
     }
 }

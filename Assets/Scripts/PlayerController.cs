@@ -38,6 +38,7 @@ public class PlayerController : MonoBehaviour
         private set { blastRange = value; }
     }
 
+    [SerializeField] private Transform bombParent;
     [SerializeField] private Bomb bombPrefab;
 
     public System.Action<PlayerInput> OnPlayerDieAction;
@@ -59,10 +60,13 @@ public class PlayerController : MonoBehaviour
         Debug.Log("Putbomb ");
 
         var bomb = Instantiate(bombPrefab, new Vector3(Mathf.RoundToInt(transform.position.x),
-  Mathf.RoundToInt(transform.position.y), transform.position.z),
-  bombPrefab.transform.rotation);
+                                  Mathf.RoundToInt(transform.position.y), transform.position.z),
+                                  bombPrefab.transform.rotation);
         bomb.transform.position = transform.position;
+        bomb.transform.parent = bombParent;
         bomb.Init(blastRange);
+
+        bomb.gameObject.SetActive(true);
     }
 
     void RemoteBomb()

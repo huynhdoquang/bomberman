@@ -41,7 +41,8 @@ public class GridManagerPlaceTiles : MonoBehaviour
         _curTileType = TileType.Brick;
         OnClickTile(_curTileType);
 
-        _myWrapper = new MyWrapper();
+        spritePreview.gameObject.SetActive(false);
+        
     }
 
     TileType _curTileType;
@@ -65,10 +66,15 @@ public class GridManagerPlaceTiles : MonoBehaviour
         Debug.Log("_curTileType pos " + (int)_curTileType);
     }
 
-    bool onCreateMode;
+    bool isCreateMode;
+
+    public void SetCreateMode(bool isCreateMode)
+    {
+        this.isCreateMode = isCreateMode;
+    }
     private void Update()
     {
-        if (!onCreateMode) return;
+        if (!isCreateMode) return;
         var pos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         spritePreview.transform.position = new Vector3(pos.x + 0.5f, pos.y + 0.5f, spritePreview.transform.position.z);
 
@@ -113,7 +119,7 @@ public class GridManagerPlaceTiles : MonoBehaviour
                 var go = gameObjects[i];
                 if(go.name == "X: " + (int)gridPos.x + "Y: " + (int)gridPos.y)
                 {
-                    _myWrapper.gridDatas.RemoveAt(i);
+                    gridDatas.RemoveAt(i);
                     gameObjects.Remove(go);
                     Destroy(go);
 
@@ -149,16 +155,16 @@ public class GridManagerPlaceTiles : MonoBehaviour
         if (!gameObjects.Contains(sr.gameObject))
             gameObjects.Add(sr.gameObject);
 
-        if (_myWrapper.gridDatas == null)
-            _myWrapper.gridDatas = new List<DTGridData>();
+        if (gridDatas == null)
+            gridDatas = new List<DTGridData>();
 
         DTGridData gridData = new DTGridData();
         gridData.posX = x;
         gridData.posY = y;
         gridData.value = value;
 
-        if (!_myWrapper.gridDatas.Contains(gridData))
-            _myWrapper.gridDatas.Add(gridData);
+        if (!gridDatas.Contains(gridData))
+            gridDatas.Add(gridData);
     }
 
     private Sprite GetSprite(int value)
@@ -173,39 +179,42 @@ public class GridManagerPlaceTiles : MonoBehaviour
 
     public void Init()
     {
-
+        spritePreview.gameObject.SetActive(isCreateMode ? true : false);
         var json = HandleTextFile.ReadString();
-        var cleanJson = json.Replace('\\',' ');
+        //var cleanJson = json.Replace('\\',' ');
 
-        MyWrapper myObjects = JsonConvert.DeserializeObject(cleanJson) as MyWrapper;
-
-        if (myObjects == null) return;
-        foreach (var g in myObjects.gridDatas)
+        var myObjects = JsonConvert.DeserializeObject<List<DTGridData>>(json);
+        
+        if (myObjects == null)
         {
-            if (g.posX > Columns || g.posY < 0 ||
-                g.posX > Horizontal || g.posY < 0)
+            Debug.Log("null map data");
+            return;
+        }
+        foreach (var g in myObjects)
+        {
+            var grid = g;
+            if (grid.posX > Columns || grid.posY < 0 ||
+                grid.posX > Horizontal || grid.posY < 0)
             {
                 continue;
             }
-            _curTileType = (TileType)g.value;
-            SpawnTile(g.posX, g.posY, g.value);
+            _curTileType = (TileType)grid.value;
+            SpawnTile(grid.posX, grid.posY, grid.value);
         }
+
     }
+    
 
-    void SetColumnsAndRows(int column, int row)
-    {
-        Columns = column;
-        Rows = row;
-    }
-
-
-    MyWrapper _myWrapper;
+    List<DTGridData> gridDatas;
+    public System.Action OnDoneExport;
     void ExportMap()
     {
-        var serializedJson = JsonConvert.SerializeObject(_myWrapper);
+        var serializedJson = JsonConvert.SerializeObject(gridDatas);
         Debug.Log(serializedJson);
 
         HandleTextFile.WriteString(serializedJson);
+
+        if(OnDoneExport != null) OnDoneExport.Invoke();
     }
     
 }
@@ -218,7 +227,3 @@ public class DTGridData
     
 }
 
-public class MyWrapper
-{
-    public List<DTGridData> gridDatas;
-}

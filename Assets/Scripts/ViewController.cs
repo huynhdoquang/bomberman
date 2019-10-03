@@ -16,12 +16,18 @@ public class ViewController : MonoBehaviour
         createMapView.gameObject.SetActive(false);
         tittleView.OnClickAdjustMap = ShowCreateMapView;
         createMapView.OnDoneExport = ShowTittleView;
+        ShowPauseView(false);
 
     }
 
     public void UpdateTimeView(int time)
     {
         inGameView.UpdateTimeView(time);
+    }
+
+    public void ShowPauseView(bool isPause)
+    {
+        inGameView.UpdateGamePauseView(isPause);
     }
 
     public void ShowIngameView()

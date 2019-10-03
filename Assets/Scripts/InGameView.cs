@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class InGameView : MonoBehaviour
 {
     [SerializeField] private Text txtTimeleft;
+    [SerializeField] private Text txtPause;
     [SerializeField] private PlayerStatusView playerStatus_1;
     [SerializeField] private PlayerStatusView playerStatus_2;
 
@@ -23,5 +24,10 @@ public class InGameView : MonoBehaviour
     public void UpdateTimeView(int time)
     {
         txtTimeleft.text = time.ToString();
+    }
+
+    public void UpdateGamePauseView(bool isPause)
+    {
+        txtPause.gameObject.SetActive(isPause);
     }
 }

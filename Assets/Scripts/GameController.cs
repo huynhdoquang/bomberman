@@ -34,6 +34,25 @@ public class GameController : MonoBehaviour
         //Init();
     }
 
+    bool isPause;
+    bool isInGame;
+    private void Update()
+    {
+        if (!isInGame) return;
+        if (Input.GetKeyUp(KeyCode.Space))
+        {
+            isPause = !isPause;
+            Time.timeScale = isPause ? 0 : 1;
+            viewController.ShowPauseView(isPause);
+        }
+
+        if (Input.GetKey(KeyCode.Escape))
+        {
+            CheckPlayersDeath();
+        }
+
+    }
+
     public void SetGameMode(GameMode gameMode)
     {
         this.gameMode = gameMode;
@@ -53,6 +72,7 @@ public class GameController : MonoBehaviour
         timeCountDownController.StarRunTime();
         timeCountDownController.OnTimeCountDownAction = OnTimeCountDown;
 
+        isInGame = true;
         //TODO:
         Init();
     }
@@ -119,6 +139,7 @@ public class GameController : MonoBehaviour
             viewController.ShowResultView(0);
         }
 
+        isInGame = false;
         timeCountDownController.SetStt(false);
     }
 

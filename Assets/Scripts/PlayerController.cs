@@ -49,7 +49,9 @@ public class PlayerController : MonoBehaviour
     {
         Debug.Log("Putbomb ");
 
-        var bomb = Instantiate(bombPrefab);
+        var bomb = Instantiate(bombPrefab, new Vector3(Mathf.RoundToInt(transform.position.x),
+  Mathf.RoundToInt(transform.position.y), transform.position.z),
+  bombPrefab.transform.rotation);
         bomb.transform.position = transform.position;
         bomb.Init(blastRange);
     }

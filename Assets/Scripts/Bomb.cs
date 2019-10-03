@@ -20,6 +20,8 @@ public class Bomb : MonoBehaviour
     [Tooltip("Time each blast")]
     [SerializeField] private float blastTime = 0.5f;
 
+    [SerializeField] private LayerMask LayerMask;
+ 
     bool onAlive;
     bool isExplosived;
     private float timeBomb;
@@ -79,7 +81,8 @@ public class Bomb : MonoBehaviour
         yield return new WaitForSeconds(blastTime*i);
         foreach (BlastDir e in System.Enum.GetValues(typeof(BlastDir)))
         {
-            OnSpawnBlast(e, i);
+            if(OnCheckBrick(e,i))
+                OnSpawnBlast(e, i);
             numbOfBalst++;
         }
     }
@@ -113,6 +116,42 @@ public class Bomb : MonoBehaviour
         var b = Instantiate(blastPrefab);
         b.transform.position = new Vector3(addOnX, addOnY, transform.position.z);
         b.Init();
+    }
+
+    bool OnCheckBrick(BlastDir blastDir, int dis)
+    {
+        Vector3 direction = Vector3.zero;
+
+        switch (blastDir)
+        {
+            case BlastDir.top:
+                direction = Vector3.up;
+                break;
+            case BlastDir.down:
+                direction = Vector3.down;
+                break;
+            case BlastDir.left:
+                direction = Vector3.left;
+                break;
+            case BlastDir.right:
+                direction = Vector3.right;
+                break;
+            default:
+                break;
+        }
+
+        RaycastHit2D hit;
+        hit = Physics2D.Raycast(transform.position, direction,
+          dis, LayerMask);
+
+        Debug.DrawRay(transform.position, direction *10, Color.green);
+
+        if (hit.collider)
+        {
+            Debug.Log("hit hit hit");
+        }
+        return (!hit.collider) ? true : false;
+
     }
 
     void OnCollisionEnter2D(Collision2D collision)

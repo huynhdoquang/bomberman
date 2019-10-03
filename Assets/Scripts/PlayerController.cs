@@ -7,42 +7,51 @@ public class PlayerController : MonoBehaviour
     [SerializeField] PlayerInput playerInput;
     [SerializeField] private Movement2D movementInput;
 
-    
+    public System.Action OnRefeshSttAction;
+
+
     /// <summary>
     /// number of bomb in player 
     /// </summary>
     private int bombQuantity;
+    public int BombQuantity {
+        get { return bombQuantity; }
+        private set { bombQuantity = value; }
+    }
     private int playerHealth = 1;
     /// <summary>
     /// speed of player
     /// </summary>
     [SerializeField]  private int playerRunSpeed;
+    public int PlayerRunSpeed
+    {
+        get { return playerRunSpeed; }
+        private set { playerRunSpeed = value; }
+    }
     /// <summary>
     /// 
     /// </summary>
     [SerializeField]  private int blastRange = 4;
+    public int BlastRange
+    {
+        get { return blastRange; }
+        private set { blastRange = value; }
+    }
 
     [SerializeField] private Bomb bombPrefab;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        Init();
-    }
+    public System.Action<PlayerInput> OnPlayerDieAction;
+    
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
-    void Init()
+    public void Init()
     {
         movementInput.SetMovementSpeed(playerRunSpeed);
         movementInput.SetPlayerInput(playerInput);
 
         movementInput.OnClickFire1Action = PutBomb;
         movementInput.OnClickFire2Action = PutBomb;
+
+        if (OnRefeshSttAction != null) OnRefeshSttAction.Invoke();
     }
 
     void PutBomb()
@@ -70,22 +79,33 @@ public class PlayerController : MonoBehaviour
         {
             //Add Blast
             blastRange += 1;
+            if(OnRefeshSttAction != null) OnRefeshSttAction.Invoke();
         }
 
         if (collision.gameObject.tag == GameTag.ItemMoreBomb)
         {
             bombQuantity += 1;
+            if (OnRefeshSttAction != null) OnRefeshSttAction.Invoke();
         }
 
         if (collision.gameObject.tag == GameTag.ItemFasterRun)
         {
             playerRunSpeed += 1;
             movementInput.SetMovementSpeed(playerRunSpeed);
+            if (OnRefeshSttAction != null) OnRefeshSttAction.Invoke();
         }
 
         if (collision.gameObject.tag == GameTag.ItemRemoteBomb)
         {
             //TODO:
         }
+
+        if (collision.gameObject.tag == GameTag.Blast)
+        {
+            // OnDie
+            if (OnPlayerDieAction != null)
+                OnPlayerDieAction.Invoke(playerInput);
+        }
+
     }
 }

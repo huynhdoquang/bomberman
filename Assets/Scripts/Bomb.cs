@@ -118,6 +118,7 @@ public class Bomb : MonoBehaviour
         b.Init();
     }
 
+    private Dictionary<BlastDir, bool> _isGetBrickDict;
     bool OnCheckBrick(BlastDir blastDir, int dis)
     {
         Vector3 direction = Vector3.zero;
@@ -140,6 +141,13 @@ public class Bomb : MonoBehaviour
                 break;
         }
 
+        //
+        if (_isGetBrickDict == null)
+            _isGetBrickDict = new Dictionary<BlastDir, bool>();
+
+        if (_isGetBrickDict.ContainsKey(blastDir))
+            if (_isGetBrickDict[blastDir]) return false;
+
         RaycastHit2D hit;
         hit = Physics2D.Raycast(transform.position, direction,
           dis, LayerMask);
@@ -148,7 +156,15 @@ public class Bomb : MonoBehaviour
 
         if (hit.collider)
         {
-            Debug.Log("hit hit hit");
+            Debug.Log("hit brick hit");
+
+            if (hit.collider.name == GameLayer.Brick)
+            {
+                if (!_isGetBrickDict.ContainsKey(blastDir))
+                    _isGetBrickDict.Add(blastDir, true);
+
+                return true;
+            }
         }
         return (!hit.collider) ? true : false;
 

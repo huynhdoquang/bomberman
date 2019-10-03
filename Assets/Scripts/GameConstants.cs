@@ -16,3 +16,9 @@ public static class GameTag
     public static string ItemRemoteBomb = "item4";
     public static string Blast = "blast";
 }
+
+public static class GameLayer
+{
+    public static string Brick = "brick";
+    public static string UnbreakableBrick = "unbreakable brick";
+}

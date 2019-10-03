@@ -17,10 +17,13 @@ public class CreateMapView : MonoBehaviour
     [SerializeField] private Button btnPlayer1;
     [SerializeField] private Button btnPlayer2;
 
+    [SerializeField] private Button btnExport;
+
     [SerializeField] private Button btnCamera;
 
     public System.Action<TileType> BtnClickAction;
-
+    public System.Action<PlayerInput> OnClickPlayerAction;
+    public System.Action ClickExportAction;
 
     private void Start()
     {
@@ -29,6 +32,15 @@ public class CreateMapView : MonoBehaviour
 
         btnUnBreackBrick.onClick.RemoveListener(OnClickUnBreakBrick);
         btnUnBreackBrick.onClick.AddListener(OnClickUnBreakBrick);
+
+        btnExport.onClick.RemoveListener(OnClickExport);
+        btnExport.onClick.AddListener(OnClickExport);
+
+        btnPlayer1.onClick.RemoveListener(OnClickPlayer1);
+        btnPlayer1.onClick.AddListener(OnClickPlayer1);
+
+        btnPlayer2.onClick.RemoveListener(OnClickPlayer2);
+        btnPlayer2.onClick.AddListener(OnClickPlayer2);
     }
 
     void OnClickBrick()
@@ -41,6 +53,17 @@ public class CreateMapView : MonoBehaviour
         if (BtnClickAction != null) BtnClickAction.Invoke(TileType.UnBreakBrick);
     }
 
+    void OnClickExport()
+    {
+        if (ClickExportAction != null) ClickExportAction.Invoke();
+    }
 
-
+    void OnClickPlayer1()
+    {
+        if (OnClickPlayerAction != null) OnClickPlayerAction.Invoke(PlayerInput.P1);
+    }
+    void OnClickPlayer2()
+    {
+        if (OnClickPlayerAction != null) OnClickPlayerAction.Invoke(PlayerInput.P2);
+    }
 }

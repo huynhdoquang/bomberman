@@ -21,13 +21,14 @@ public class TimeCountDownController : MonoBehaviour
 
     public void StarRunTime()
     {
+        isInGame = true;
         StartCoroutine("LoseTime");
         Time.timeScale = 1; //Just making sure that the timeScale is right
     }
 
     public void SetTime(int time) {
         timeLeft = time;
-        isInGame = true;
+        
     }
 
     public void SetStt(bool isInGame)

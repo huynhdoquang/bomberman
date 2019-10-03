@@ -26,10 +26,11 @@ public class Bomb : MonoBehaviour
     bool isExplosived;
     private float timeBomb;
     public System.Action ExplosiveAction;
+    public System.Action ExplosiveActionRemote;
 
     private int numbOfBalst;
 
-    public void Init(int blastExplosive, int timeToExplosive = 4)
+    public void Init(int blastExplosive, int timeToExplosive = 3)
     {
         this.timeToExplosive = timeToExplosive;
         this.blastExplosive = blastExplosive;
@@ -57,10 +58,18 @@ public class Bomb : MonoBehaviour
         }
     }
 
+    public void ExplosiveRemote()
+    {
+        Explosive();
+    }
+
     void Explosive()
     {
         if (ExplosiveAction != null)
             ExplosiveAction.Invoke();
+
+        if (ExplosiveActionRemote != null)
+            ExplosiveActionRemote.Invoke();
 
 
         for (int i = 0; i <= blastExplosive; i++)

@@ -46,6 +46,8 @@ public class GameController : MonoBehaviour
 
     public void StartNewGame()
     {
+        deadPlayers = 0;
+        deadPlayerNumber = -1;
         ImportMap();
         viewController.ShowIngameView();
         timeCountDownController.StarRunTime();
@@ -59,6 +61,8 @@ public class GameController : MonoBehaviour
     {
         //TODO:
         viewController.UpdateTimeView(time);
+
+        if (time < 0) CheckPlayersDeath();
     }
 
     private void UpdatePlayerSttView()

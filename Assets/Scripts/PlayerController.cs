@@ -13,11 +13,13 @@ public class PlayerController : MonoBehaviour
     /// <summary>
     /// number of bomb in player 
     /// </summary>
-    private int bombQuantity;
+    [SerializeField] private int bombQuantity;
     public int BombQuantity {
         get { return bombQuantity; }
         private set { bombQuantity = value; }
     }
+    private int bombQuantityLeft;
+    private int remoteBombQuantityLeft;
     private int playerHealth = 1;
     /// <summary>
     /// speed of player
@@ -40,6 +42,7 @@ public class PlayerController : MonoBehaviour
 
     [SerializeField] private Transform bombParent;
     [SerializeField] private Bomb bombPrefab;
+    [SerializeField] private Bomb remoteBombPrefab;
 
     public System.Action<PlayerInput> OnPlayerDieAction;
     
@@ -50,7 +53,10 @@ public class PlayerController : MonoBehaviour
         movementInput.SetPlayerInput(playerInput);
 
         movementInput.OnClickFire1Action = PutBomb;
-        movementInput.OnClickFire2Action = PutBomb;
+        movementInput.OnClickFire2Action = RemoteBomb;
+
+        bombQuantityLeft = bombQuantity;
+        remoteBombQuantityLeft = 1;
 
         if (OnRefeshSttAction != null) OnRefeshSttAction.Invoke();
     }
@@ -59,6 +65,11 @@ public class PlayerController : MonoBehaviour
     {
         Debug.Log("Putbomb ");
 
+        //Check Bombquanity
+
+        if (bombQuantityLeft <= 0)
+            return;
+        
         var bomb = Instantiate(bombPrefab, new Vector3(Mathf.RoundToInt(transform.position.x),
                                   Mathf.RoundToInt(transform.position.y), transform.position.z),
                                   bombPrefab.transform.rotation);
@@ -66,12 +77,46 @@ public class PlayerController : MonoBehaviour
         bomb.transform.parent = bombParent;
         bomb.Init(blastRange);
 
+        bomb.ExplosiveAction = BombExplosive;
+
         bomb.gameObject.SetActive(true);
+
+        bombQuantityLeft--;
     }
 
+    void BombExplosive()
+    {
+        bombQuantityLeft++;
+    }
+
+    void BombExplosiveRemote()
+    {
+        remoteBombQuantityLeft++;
+    }
+
+    Bomb _curRemoteBomb;
     void RemoteBomb()
     {
         Debug.Log("RemoteBomb ");
+        if (remoteBombQuantityLeft <= 0)
+        {
+            if(_curRemoteBomb != null)
+                _curRemoteBomb.ExplosiveRemote();
+            return;
+        }
+
+        var bomb = Instantiate(remoteBombPrefab, new Vector3(Mathf.RoundToInt(transform.position.x),
+                                  Mathf.RoundToInt(transform.position.y), transform.position.z),
+                                  remoteBombPrefab.transform.rotation);
+        _curRemoteBomb = bomb;
+        bomb.transform.parent = bombParent;
+        bomb.Init(blastRange);
+
+        bomb.ExplosiveActionRemote = BombExplosiveRemote;
+
+        bomb.gameObject.SetActive(true);
+
+        remoteBombQuantityLeft--;
     }
 
 
@@ -88,6 +133,7 @@ public class PlayerController : MonoBehaviour
 
         if (collision.gameObject.tag == GameTag.ItemMoreBomb)
         {
+            bombQuantityLeft += 1;
             bombQuantity += 1;
             if (OnRefeshSttAction != null) OnRefeshSttAction.Invoke();
         }

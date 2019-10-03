@@ -57,6 +57,8 @@ public class TittleView : MonoBehaviour
 
     void OnStartGame()
     {
+        OnDropDownTimeSelect(dropdownTimeSelect.value);
+        OnDropDownGameModeSelect(dropdownGameModeSelect.value);
         //Start game, init map and game ui
         GameController.Inst.StartNewGame();
     }

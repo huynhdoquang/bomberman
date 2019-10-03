@@ -8,6 +8,7 @@ TagManager:
   - item2
   - item3
   - blast
+  - brick
   layers:
   - Default
   - TransparentFX
@@ -17,8 +18,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - brick
+  - unbreakeable brick
   - 
   - 
   - 

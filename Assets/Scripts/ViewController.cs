@@ -50,4 +50,13 @@ public class ViewController : MonoBehaviour
         inGameView.gameObject.SetActive(false);
         createMapView.gameObject.SetActive(false);
     }
+
+    public void ShowResultView(int result)
+    {
+        tittleView.gameObject.SetActive(true);
+        inGameView.gameObject.SetActive(false);
+        createMapView.gameObject.SetActive(false);
+
+        tittleView.ShowResult(result);
+    }
 }

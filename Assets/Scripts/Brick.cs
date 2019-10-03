@@ -10,9 +10,9 @@ public class Brick : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D collision)
     {
-        Debug.Log("Brick collided with " + collision.gameObject.name + GameTag.ItemLongerBlast);
+        Debug.Log("Brick collided with " + collision.gameObject.name);
         
-        if (collision.gameObject.tag == GameTag.Blast)
+        if (collision.gameObject.tag == GameTag.Blast || collision.gameObject.name == "Blast(Clone)")
         {
             // Spawn Item follow %
             if (Random.Range(0, 100) < percentDropItem) //Random.Range(0,100) < 50

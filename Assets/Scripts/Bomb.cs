@@ -69,9 +69,10 @@ public class Bomb : MonoBehaviour
                 var b = Instantiate(blastPrefab);
                 b.transform.position = transform.position;
                 b.Init();
-                b.transform.parent = transform.parent;
                 b.gameObject.SetActive(true);
                 numbOfBalst++;
+
+                continue;
             }
             StartCoroutine(SpwanBlast(i));
         }
@@ -117,9 +118,10 @@ public class Bomb : MonoBehaviour
         }
         var b = Instantiate(blastPrefab);
         b.transform.position = new Vector3(addOnX, addOnY, transform.position.z);
-        b.transform.parent = transform.parent;
-        b.Init();
         b.gameObject.SetActive(true);
+        b.Init();
+
+        Debug.Log("sinh bom " + blastDir);
     }
 
     private Dictionary<BlastDir, bool> _isGetBrickDict;
@@ -153,24 +155,27 @@ public class Bomb : MonoBehaviour
             if (_isGetBrickDict[blastDir]) return false;
 
         RaycastHit2D hit;
-        hit = Physics2D.Raycast(transform.position, direction,
+        hit = Physics2D.Raycast(new Vector3(transform.position.x -0.5f, transform.position.y - 0.5f, transform.position.z), direction,
           dis, LayerMask);
 
-        Debug.DrawRay(transform.position, direction *10, Color.green);
+        Debug.DrawRay(new Vector3(transform.position.x - 0.5f, transform.position.y - 0.5f, transform.position.z), direction * dis, Color.green);
 
         if (hit.collider)
         {
-            Debug.Log("hit brick hit");
+            Debug.Log("hit brick hit ");
 
-            if (hit.collider.name == GameLayer.Brick)
+            if (hit.collider.tag == GameLayer.Brick)
             {
                 if (!_isGetBrickDict.ContainsKey(blastDir))
                     _isGetBrickDict.Add(blastDir, true);
-
+                Debug.Log("hit NORMAL brick hit");
                 return true;
-            }
+            }else
+                Debug.Log("hit UNBRAEKE brick hit");
         }
-        return (!hit.collider) ? true : false;
+
+        if (hit.collider != null) return false;
+        else  return true;
 
     }
 

@@ -5,12 +5,12 @@ using UnityEngine;
 public class TimeCountDownController : MonoBehaviour
 {
     int timeLeft = 30; //Seconds Overall
-
+    bool isInGame;
     public System.Action<int> OnTimeCountDownAction;
     //Simple Coroutine
     IEnumerator LoseTime()
     {
-        while (true)
+        while (isInGame)
         {
             yield return new WaitForSeconds(1);
             timeLeft--;
@@ -27,5 +27,11 @@ public class TimeCountDownController : MonoBehaviour
 
     public void SetTime(int time) {
         timeLeft = time;
+        isInGame = true;
+    }
+
+    public void SetStt(bool isInGame)
+    {
+        this.isInGame = isInGame;
     }
 }

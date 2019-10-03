@@ -193,8 +193,8 @@ public class GridManagerPlaceTiles : MonoBehaviour
         foreach (var g in myObjects)
         {
             var grid = g;
-            if (grid.posX > Columns || grid.posY < 0 ||
-                grid.posX > Horizontal || grid.posY < 0)
+            if (grid.posX > Columns || grid.posX < 0 ||
+                grid.posY > Horizontal || grid.posY < 0)
             {
                 continue;
             }

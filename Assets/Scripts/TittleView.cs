@@ -12,6 +12,8 @@ public class TittleView : MonoBehaviour
 
     [SerializeField] private Button btnAdjustMap;
 
+    [SerializeField] private ResultView resultView;
+
     public System.Action OnClickAdjustMap;
 
     private void Start()
@@ -31,6 +33,8 @@ public class TittleView : MonoBehaviour
         //Set Default
         dropdownGameModeSelect.value = 0;
         dropdownTimeSelect.value = 0;
+
+        resultView.gameObject.SetActive(false);
     }
 
     void OnDropDownTimeSelect(int choice)
@@ -60,5 +64,11 @@ public class TittleView : MonoBehaviour
     void AdjustMap()
     {
         if (OnClickAdjustMap != null) OnClickAdjustMap.Invoke();
+    }
+
+    public void ShowResult(int result)
+    {
+        resultView.gameObject.SetActive(true);
+        resultView.SetResult(result);
     }
 }

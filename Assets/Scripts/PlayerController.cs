@@ -62,7 +62,7 @@ public class PlayerController : MonoBehaviour
         var bomb = Instantiate(bombPrefab, new Vector3(Mathf.RoundToInt(transform.position.x),
                                   Mathf.RoundToInt(transform.position.y), transform.position.z),
                                   bombPrefab.transform.rotation);
-        bomb.transform.position = transform.position;
+        
         bomb.transform.parent = bombParent;
         bomb.Init(blastRange);
 
@@ -77,7 +77,7 @@ public class PlayerController : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D collision)
     {
-        Debug.Log("GameObject2 collided with " + collision.gameObject.name + GameTag.ItemLongerBlast);
+       // Debug.Log("GameObject2 collided with " + collision.gameObject.name + GameTag.ItemLongerBlast);
 
         if(collision.gameObject.tag == GameTag.ItemLongerBlast)
         {

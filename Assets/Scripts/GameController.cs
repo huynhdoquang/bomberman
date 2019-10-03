@@ -101,16 +101,21 @@ public class GameController : MonoBehaviour
             if (deadPlayerNumber == 1)
             {
                 Debug.Log("Player 2 is the winner!");
+                viewController.ShowResultView(2);
             }
             else
             {
                 Debug.Log("Player 1 is the winner!");
+                viewController.ShowResultView(1);
             }
         }
         else
         {
             Debug.Log("The game ended in a draw!");
+            viewController.ShowResultView(0);
         }
+
+        timeCountDownController.SetStt(false);
     }
 
     void ImportMap()
